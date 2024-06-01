@@ -1,0 +1,31 @@
+a {
+  color: red;
+}
+
+.profile {
+  background-color: green;
+  color: darkblue;
+}
+
+#name {
+  background-color: red;
+}
+
+.profile > #major {
+  color: khaki;
+}
+
+.card {
+  border-style: solid;
+  margin: 3px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#food {
+  text-align: center;
+}
